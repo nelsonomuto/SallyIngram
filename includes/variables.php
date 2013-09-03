@@ -1,0 +1,3 @@
+<?php
+$SiteTitle = 'Sally Ingram';
+?>

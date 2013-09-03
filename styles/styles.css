@@ -1,0 +1,95 @@
+body{
+	font-family: calibri;
+	font-size: 1.1em;
+	margin: 0;
+	min-width: 920px;
+}
+a img{
+	border:0;
+	padding: 0 6px;
+}
+#container, #header{
+	min-width: 1339px;
+}
+#header{
+	width: 100%;
+	height: 150px;
+	background: url(../images/Sally_Ingram.jpg) no-repeat;
+	background-color: #E6F2F2;
+	background-position: 25% -8px;
+}
+#menu{
+	float: right;
+	margin: 31px 22%;
+	background-color: #E6F2F2;
+}
+.BlueBold{
+	font-size: 1.3em;	
+	color: #4f758c;
+}	
+.Bold, .BlueBold{
+	font-weight: bold;
+}
+.NavigationHeader{
+	font-size: 1.8em;
+	font-style: italic;
+	display: block;
+	padding: 5px 14px;
+}
+.InfoText{
+}
+.FloatRightImage{
+	float: right;
+	margin: 3px 0 0 45px;
+}
+#homeContent{
+	margin: 35px 16%;
+}
+#homeContent p{
+	text-align: center;	
+}
+#homeContent a, #contactContent a{
+	color: #4f758c;
+}
+#homeContent .Text{
+	margin-top: 35px;
+}
+.HomeInfoText{
+	font-weight: bold;
+	font-size: 1.2em;
+	font-style: italic;
+	text-align: center;
+}
+.Bullet{
+	margin: 2px 5px;
+	height: 2px;
+	width: 2px;
+	background: url(../images/bullet.png) no-repeat;	
+}
+.InfoText{
+	font-weight: bold;
+	font-size: 1.2em;
+	font-style: italic;
+	text-align: center;	
+	float: left;
+	padding: 118px 55px;
+}
+.ContactImage{
+	margin: 55px 0 0 243px;
+	float: left;
+}
+#portfolioContent{
+	margin: 20px 223px;
+	width: 100%;
+	overflow-x: hidden;
+}
+.PortfolioImage{
+	margin: 20px;
+}
+.portfolioIntro{
+	width: 100%;
+	display: block;
+	margin: 0 360px;
+	color: grey;
+	font-size: 0.9em;
+}
